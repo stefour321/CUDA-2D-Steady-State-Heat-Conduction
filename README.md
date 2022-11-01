@@ -14,8 +14,8 @@ held at 100 °C is shown below<br /><br />
 2. -I 10000 – the number of iterations 
 
 ## Run CUDA on Windows
-`module load gcc/9.2.0 cuda/11.1`
-`nvcc main.cu`
+`module load gcc/9.2.0 cuda/11.1`<br />
+`nvcc main.cu`<br />
 `./a.out`
 
 
